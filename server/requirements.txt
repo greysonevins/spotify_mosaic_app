@@ -2,7 +2,7 @@ certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gcloud==0.17.0
 googleapis-common-protos==1.51.0
 httplib2==0.17.0
