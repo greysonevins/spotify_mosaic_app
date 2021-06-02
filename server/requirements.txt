@@ -22,5 +22,5 @@ requests-toolbelt==0.7.0
 rsa==4.0
 six==1.14.0
 tqdm==4.43.0
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==1.0.0
